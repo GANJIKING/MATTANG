@@ -1,7 +1,7 @@
 # MATTANG
 
 
-(20/06)~미정<br>
+<p>(20/06)~미정</p><br>
 
 전반적인 이해도, 응용<br>
 chatting App 개발<br>
